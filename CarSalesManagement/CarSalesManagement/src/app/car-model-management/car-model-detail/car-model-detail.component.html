@@ -1,0 +1,11 @@
+<div *ngIf="carModel">
+  <h1>{{ carModel.modelName }}</h1>
+  <p>{{ carModel.description }}</p>
+  <p>Price: {{ carModel.price | currency }}</p>
+  <p>Manufactured on: {{ carModel.dateOfManufacturing | date }}</p>
+  <p>Features: {{ carModel.features }}</p>
+  <div *ngIf="carModel.images">
+    <h2>Images</h2>
+    <img *ngFor="let img of carModel.images" [src]="img" alt="Car image" />
+  </div>
+</div>

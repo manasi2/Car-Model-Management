@@ -1,0 +1,9 @@
+<div class="car-model-list">
+  <h1>Car Models</h1>
+  <div *ngFor="let car of carModels" class="car-model">
+    <h2>{{ car.modelName }}</h2>
+    <p>{{ car.description }}</p>
+    <p>Price: {{ car.price | currency }}</p>
+    <a [routerLink]="['/car-model', car.id]">View Details</a>
+  </div>
+</div>

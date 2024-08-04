@@ -1,0 +1,62 @@
+<form [formGroup]="carModelForm" (ngSubmit)="onSubmit()">
+  <div>
+    <label for="brand">Brand</label>
+    <select id="brand" formControlName="brand">
+      <option value="Audi">Audi</option>
+      <option value="Jaguar">Jaguar</option>
+      <option value="Land Rover">Land Rover</option>
+      <option value="Renault">Renault</option>
+    </select>
+  </div>
+
+  <div>
+    <label for="class">Class</label>
+    <select id="class" formControlName="class">
+      <option value="A-Class">A-Class</option>
+      <option value="B-Class">B-Class</option>
+      <option value="C-Class">C-Class</option>
+    </select>
+  </div>
+
+  <div>
+    <label for="modelName">Model Name</label>
+    <input id="modelName" formControlName="modelName" />
+  </div>
+
+  <div>
+    <label for="modelCode">Model Code</label>
+    <input id="modelCode" formControlName="modelCode" />
+  </div>
+
+  <div>
+    <label for="description">Description</label>
+    <textarea id="description" formControlName="description"></textarea>
+  </div>
+
+  <div>
+    <label for="features">Features</label>
+    <textarea id="features" formControlName="features"></textarea>
+  </div>
+
+  <div>
+    <label for="price">Price</label>
+    <input type="number" id="price" formControlName="price" />
+  </div>
+
+  <div>
+    <label for="dateOfManufacturing">Date of Manufacturing</label>
+    <input type="date" id="dateOfManufacturing" formControlName="dateOfManufacturing" />
+  </div>
+
+  <div>
+    <label for="sortOrder">Sort Order</label>
+    <input type="number" id="sortOrder" formControlName="sortOrder" />
+  </div>
+
+  <div>
+    <label for="active">Active</label>
+    <input type="checkbox" id="active" formControlName="active" />
+  </div>
+
+  <button type="submit" [disabled]="!carModelForm.valid">Create</button>
+</form>
