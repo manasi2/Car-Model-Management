@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k6fLlJFOTEKdzhA6r8tvx+wz+bddCiOKKC1DywBBCqU=",
+  "Source": "CarManagementApi",
+  "BasePath": "_content/CarManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

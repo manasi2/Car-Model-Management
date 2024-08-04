@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\services\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\services\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\services\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\services\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\repositories\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\repositories\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\repositories\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\repositories\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|c:\\users\\admin\\source\\repos\\carmanagementapi\\carmanagementapi\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{812142BA-4596-4A09-8AD2-0F2F989D47A2}|CarManagementApi\\CarManagementApi.csproj|solutionrelative:carmanagementapi\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CarManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\appsettings.json",
+              "RelativeToolTip": "CarManagementApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T18:29:22.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CarManagementApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\appsettings.Development.json",
+              "RelativeToolTip": "CarManagementApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T18:25:37.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarManagementApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarManagementApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T18:25:55.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "CarManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Program.cs",
+              "RelativeToolTip": "CarManagementApi\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:20:42.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CarManagementApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "CarManagementApi\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:20:13.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarModelController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Controllers\\CarModelController.cs",
+              "RelativeDocumentMoniker": "CarManagementApi\\Controllers\\CarModelController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Controllers\\CarModelController.cs",
+              "RelativeToolTip": "CarManagementApi\\Controllers\\CarModelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:18:15.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarModelService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Services\\CarModelService.cs",
+              "RelativeDocumentMoniker": "CarManagementApi\\Services\\CarModelService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Services\\CarModelService.cs",
+              "RelativeToolTip": "CarManagementApi\\Services\\CarModelService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:17:43.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarModelService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Services\\ICarModelService.cs",
+              "RelativeDocumentMoniker": "CarManagementApi\\Services\\ICarModelService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Services\\ICarModelService.cs",
+              "RelativeToolTip": "CarManagementApi\\Services\\ICarModelService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:17:07.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Repositories\\CarModelRepository.cs",
+              "RelativeDocumentMoniker": "CarManagementApi\\Repositories\\CarModelRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Repositories\\CarModelRepository.cs",
+              "RelativeToolTip": "CarManagementApi\\Repositories\\CarModelRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQPQ8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:13:00.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICarModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Repositories\\ICarModelRepository.cs",
+              "RelativeDocumentMoniker": "CarManagementApi\\Repositories\\ICarModelRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Repositories\\ICarModelRepository.cs",
+              "RelativeToolTip": "CarManagementApi\\Repositories\\ICarModelRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:12:15.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Models\\CarModel.cs",
+              "RelativeDocumentMoniker": "CarManagementApi\\Models\\CarModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CarManagementApi\\CarManagementApi\\Models\\CarModel.cs",
+              "RelativeToolTip": "CarManagementApi\\Models\\CarModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:10:49.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
